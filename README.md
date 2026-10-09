@@ -5,3 +5,4 @@ Version 1.0
 Features:
 - Add student
 - View student details# -SCM-Experiment
+- Update student details

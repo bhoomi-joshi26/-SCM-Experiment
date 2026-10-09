@@ -6,3 +6,4 @@ Features:
 - Add student
 - View student details# -SCM-Experiment
 - Update student details
+- Generate student report
